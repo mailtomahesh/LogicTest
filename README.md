@@ -23,3 +23,5 @@ JUnit tests are available for the following 2 conditions:
 Note: Spring Boot is not being used now for want of time.
 Simple implementation using the Jersey framework has been done.
 If I get more time, I can implement the functionalities again using Spring Boot.
+
+Note: Eclipse was used for development.
