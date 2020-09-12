@@ -4,6 +4,7 @@ This opens the default.jsp page which contains some help information regarding t
 
 RESTful webservices are being used to implement the functionalities.
 HTTP GET request is being used to implement the functionalities.
+Note: In actual implementation, HTTP POST request can be used for better security etc.
 
 The URL of Random Number Generation Service is the following:
 http://localhost:8080/LogicTest/rest/RandomNumberService
