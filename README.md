@@ -27,3 +27,6 @@ Simple implementation using the Jersey framework has been done.
 If I get more time, I can implement the functionalities again using Spring Boot.
 
 Note: Eclipse was used for development.
+
+Note: It was not feasible to implement HTTP 400 error for incorrect addition total in the request..
+Hence, a corresponding return message has been provided accordingly.
